@@ -1,0 +1,33 @@
+body {
+	background: url('./images/background.jpg');
+	background-size: cover;
+}
+
+.navbar-brand {
+	font-size: 24px;
+	color: white;
+}
+
+#car-form {
+	border: 1px solid #efefef;
+	padding:30px;
+	background: #efefef;
+}
+
+.full-height {
+	background: rgba(0,0,0, 0.75)
+}
+
+.project-title {
+	color: #fff;
+}
+
+.result-box {
+	color: #fff;
+	padding: 50px 20px;
+	text-align: center;
+}
+
+.result-box h1{
+	font-size: 70px;
+}
